@@ -16,3 +16,6 @@ x  f(x)
 5  105
 ***********
 ```
+## ✅ Resultado
+
+![Ejemplo de Ejecucion](./ejer5.png)

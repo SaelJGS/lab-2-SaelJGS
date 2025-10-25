@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Sael de Jesus Garduza Santos 
+- Matrícula: S25018115
+- Fecha: 26/10/2025
 
 ## 🎯 Objetivos
 
